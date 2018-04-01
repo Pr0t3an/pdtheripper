@@ -16,7 +16,7 @@ def menume():
     output_dir = raw_input("Output Directory: ")
     host_name = raw_input("Hostname: ")
    # ripper_path = "C:\RegRipper"
-   # input_dir = "C:\Users\Hanson\Desktop\uk_uk908851_DGIM_EC"
+   # input_dir = "C:\Users\Hanson\Desktop\path"
    # output_dir = "C:\output"
    # host_name="ccc"
     checkthingsexist(ripper_path, input_dir, output_dir, host_name)
